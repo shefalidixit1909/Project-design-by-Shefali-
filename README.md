@@ -1,2 +1,2 @@
-# Project-design-by-Shefali-
-Sql project 
+# Project-design-by-Shefali
+SQL project 
